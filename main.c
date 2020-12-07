@@ -2,7 +2,7 @@
 
 main() {
 
-  printf("Alô : ");
+  printf("Alô : ");  // é necessário utilizar o ; para encerrar a instrução
   printf("Alunos !!!");
   
 }
